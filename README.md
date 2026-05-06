@@ -2,6 +2,8 @@
 
 Тестовое задание: дашборд со списком пользователей на базе публичного API [dummyjson.com/users](https://dummyjson.com/docs/users).
 
+Ознакомится можно тут: [Dashboard](https://user-dashboard-livid-one.vercel.app)
+
 ## Что делает приложение
 
 **Главная (`/`)**
